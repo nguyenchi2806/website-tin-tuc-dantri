@@ -1,0 +1,109 @@
+
+{
+  "menu": [
+    {
+      "id": "home",
+      "title": "Trang chủ",
+      "url": "index.html",
+      "type": "home"
+    },
+    {
+      "id": "latest",
+      "title": "Mới nhất",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "the-gioi",
+      "title": "Thế giới",
+      "url": "#",
+      "type": "category",
+      "children": [
+        {
+          "id": "quan-su",
+          "title": "Quân sự",
+          "url": "#"
+        },
+        {
+          "id": "phan-tich",
+          "title": "Phân tích - Bình luận",
+          "url": "#"
+        },
+        {
+          "id": "the-gioi-do-day",
+          "title": "Thế giới đó đây",
+          "url": "#"
+        },
+        {
+          "id": "kieu-bao",
+          "title": "Kiều bào",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "thoi-su",
+      "title": "Thời sự",
+      "url": "#",
+      "type": "category",
+      "children": [
+        {
+          "id": "chinh-tri",
+          "title": "Chính trị",
+          "url": "#"
+        },
+        {
+          "id": "giao-thong",
+          "title": "Giao thông",
+          "url": "#"
+        },
+        {
+          "id": "moi-truong",
+          "title": "Môi trường",
+          "url": "#"
+        },
+        {
+          "id": "nong-tren-mang",
+          "title": "Nóng trên mạng",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "kinh-doanh",
+      "title": "Kinh doanh",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "bat-dong-san",
+      "title": "Bất động sản",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "the-thao",
+      "title": "Thể thao",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "giai-tri",
+      "title": "Giải trí",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "giao-duc",
+      "title": "Giáo dục",
+      "url": "#",
+      "type": "category"
+    },
+    {
+      "id": "suc-khoe",
+      "title": "Sức khỏe",
+      "url": "#",
+      "type": "category"
+    }
+  ]
+}
