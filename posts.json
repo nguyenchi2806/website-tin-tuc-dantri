@@ -1,0 +1,83 @@
+
+{
+  "posts": [
+    {
+      "id": "demo-001",
+      "title": "Chuyển đổi số mở ra nhiều cơ hội cho doanh nghiệp Việt Nam",
+      "slug": "chuyen-doi-so-mo-ra-co-hoi-cho-doanh-nghiep",
+      "excerpt": "Chuyển đổi số đang trở thành một hướng đi quan trọng giúp doanh nghiệp nâng cao hiệu quả hoạt động và tiếp cận khách hàng.",
+      "content": "Chuyển đổi số đang tạo ra nhiều cơ hội cho doanh nghiệp trong việc cải thiện quy trình vận hành, quản lý dữ liệu và phát triển các kênh kinh doanh trực tuyến. Việc ứng dụng công nghệ cần đi cùng chiến lược phù hợp, nguồn nhân lực và khả năng bảo vệ dữ liệu.",
+      "author": "Ban biên tập",
+      "category": "Kinh doanh",
+      "publishedAt": "2026-10-17 09:00",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "demo-002",
+      "title": "Những xu hướng công nghệ đáng chú ý trong đời sống hiện đại",
+      "slug": "xu-huong-cong-nghe-doi-song-hien-dai",
+      "excerpt": "Nhiều công nghệ mới đang thay đổi cách con người học tập, làm việc và trao đổi thông tin.",
+      "content": "Công nghệ số ngày càng được ứng dụng trong giáo dục, thương mại và các hoạt động thường ngày. Để sử dụng hiệu quả, người dùng cần nâng cao kỹ năng số, đánh giá độ tin cậy của thông tin và chú ý đến quyền riêng tư.",
+      "author": "Ban biên tập",
+      "category": "Thế giới",
+      "publishedAt": "2026-10-16 15:30",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "demo-003",
+      "title": "Giáo dục trực tuyến và những thay đổi trong cách học",
+      "slug": "giao-duc-truc-tuyen-va-cach-hoc",
+      "excerpt": "Các nền tảng học trực tuyến giúp người học tiếp cận tài liệu và chủ động hơn trong quá trình học tập.",
+      "content": "Học trực tuyến đem đến khả năng tiếp cận kiến thức linh hoạt. Người học vẫn cần có kế hoạch rõ ràng, lựa chọn nguồn tài liệu đáng tin cậy và duy trì sự tương tác để nâng cao hiệu quả học tập.",
+      "author": "Ban biên tập",
+      "category": "Giáo dục",
+      "publishedAt": "2026-10-15 10:00",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "demo-004",
+      "title": "Thói quen vận động giúp nâng cao sức khỏe mỗi ngày",
+      "slug": "thoi-quen-van-dong-nang-cao-suc-khoe",
+      "excerpt": "Duy trì hoạt động thể chất phù hợp là một phần quan trọng của lối sống lành mạnh.",
+      "content": "Vận động thường xuyên, nghỉ ngơi hợp lý và ăn uống cân bằng góp phần hỗ trợ sức khỏe. Mỗi người nên lựa chọn hình thức vận động phù hợp với khả năng và điều kiện cá nhân.",
+      "author": "Ban biên tập",
+      "category": "Sức khỏe",
+      "publishedAt": "2026-10-14 08:30",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "demo-005",
+      "title": "Thể thao góp phần kết nối cộng đồng",
+      "slug": "the-thao-ket-noi-cong-dong",
+      "excerpt": "Các hoạt động thể thao tạo cơ hội giao lưu, rèn luyện kỹ năng và tăng cường tinh thần đồng đội.",
+      "content": "Thể thao không chỉ mang lại lợi ích vận động mà còn tạo môi trường để mọi người hợp tác và xây dựng tinh thần tập thể. Việc tham gia cần phù hợp với thể trạng và được thực hiện an toàn.",
+      "author": "Ban biên tập",
+      "category": "Thể thao",
+      "publishedAt": "2026-10-13 17:00",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "demo-006",
+      "title": "Giao thông đô thị và bài toán phát triển bền vững",
+      "slug": "giao-thong-do-thi-phat-trien-ben-vung",
+      "excerpt": "Quy hoạch giao thông đồng bộ là một trong những yếu tố quan trọng đối với sự phát triển đô thị.",
+      "content": "Phát triển giao thông đô thị cần kết hợp quy hoạch, vận tải công cộng và hạ tầng phù hợp. Việc sử dụng dữ liệu trong quản lý có thể hỗ trợ đánh giá nhu cầu đi lại và cải thiện chất lượng dịch vụ.",
+      "author": "Ban biên tập",
+      "category": "Thời sự",
+      "publishedAt": "2026-10-12 11:00",
+      "source": "Bài viết mẫu phục vụ học tập",
+      "url": "",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    }
+  ]
+}
