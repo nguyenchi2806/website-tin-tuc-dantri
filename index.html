@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Website tin tức cập nhật những thông tin mới nhất.">
+  <title>Tin Mới 24h | Website tin tức</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="index.html">
+        <span class="logo-mark">T</span>
+        <span>TIN MỚI <span class="logo-highlight">24H</span></span>
+      </a>
+      <a class="crawler-link" href="crawler.html">Công cụ Crawler ↗</a>
+    </div>
+  </header>
+
+  <nav class="navbar" aria-label="Danh mục tin tức">
+    <div class="container nav-inner" id="category-nav">
+      <a href="index.html" class="nav-link active">Trang chủ</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section class="welcome">
+      <p class="eyebrow">TIN TỨC MỖI NGÀY</p>
+      <h1>Thông tin mới, <span>góc nhìn mới.</span></h1>
+      <p>Cập nhật tin tức và khám phá những câu chuyện đáng chú ý.</p>
+    </section>
+
+    <section id="news-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">ĐỌC GÌ HÔM NAY?</p>
+          <h2 id="category-title">Tin mới nhất</h2>
+        </div>
+        <span id="news-count" class="news-count">Đang tải tin...</span>
+      </div>
+
+      <div id="featured-news" class="featured-grid"></div>
+      <div id="news-list" class="news-list"></div>
+      <p id="empty-message" class="empty-message" hidden>
+        Chưa có bài viết trong chuyên mục này.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="logo footer-logo" href="index.html">
+          <span class="logo-mark">T</span>
+          <span>TIN MỚI <span class="logo-highlight">24H</span></span>
+        </a>
+        <p>Kênh tin tức tổng hợp phục vụ học tập và thực hành xây dựng website.</p>
+      </div>
+      <div>
+        <h3>Liên kết nhanh</h3>
+        <a href="index.html">Trang chủ</a>
+        <a href="index.html#news-section">Tin mới nhất</a>
+        <a href="crawler.html">Công cụ Crawler</a>
+      </div>
+      <div>
+        <h3>Thông tin</h3>
+        <p>Email: contact@example.com</p>
+        <p>Nguồn dữ liệu mẫu: Dân trí</p>
+      </div>
+    </div>
+    <div class="container copyright">
+      © 2026 Tin Mới 24H. Website phục vụ mục đích học tập.
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
