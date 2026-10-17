@@ -6,7 +6,7 @@
       "title": "Chuyển đổi số mở ra nhiều cơ hội cho doanh nghiệp Việt Nam",
       "slug": "chuyen-doi-so-mo-ra-co-hoi-cho-doanh-nghiep",
       "excerpt": "Chuyển đổi số đang trở thành một hướng đi quan trọng giúp doanh nghiệp nâng cao hiệu quả hoạt động và tiếp cận khách hàng.",
-      "content": "Chuyển đổi số đang tạo ra nhiều cơ hội cho doanh nghiệp trong việc cải thiện quy trình vận hành, quản lý dữ liệu và phát triển các kênh kinh doanh trực tuyến. Việc ứng dụng công nghệ cần đi cùng chiến lược phù hợp, nguồn nhân lực và khả năng bảo vệ dữ liệu.",
+      "content": "Chuyển đổi số đang tạo ra nhiều cơ hội cho doanh nghiệp trong việc cải thiện quy trình vận hành, quản lý dữ liệu và phát triển các kênh kinh doanh trực tuyến. Việc ứng dụng công nghệ cần đi cùng chiến lược phù hợp, nâng cao kỹ năng của nhân sự và bảo đảm an toàn thông tin.",
       "author": "Ban biên tập",
       "category": "Kinh doanh",
       "publishedAt": "2026-10-17 09:00",
@@ -19,7 +19,7 @@
       "title": "Những xu hướng công nghệ đáng chú ý trong đời sống hiện đại",
       "slug": "xu-huong-cong-nghe-doi-song-hien-dai",
       "excerpt": "Nhiều công nghệ mới đang thay đổi cách con người học tập, làm việc và trao đổi thông tin.",
-      "content": "Công nghệ số ngày càng được ứng dụng trong giáo dục, thương mại và các hoạt động thường ngày. Để sử dụng hiệu quả, người dùng cần nâng cao kỹ năng số, đánh giá độ tin cậy của thông tin và chú ý đến quyền riêng tư.",
+      "content": "Công nghệ mới đang được ứng dụng trong giáo dục, thương mại và các hoạt động thường ngày. Để sử dụng hiệu quả, người dùng cần nâng cao kỹ năng số, đánh giá độ tin cậy của thông tin và chú ý bảo vệ dữ liệu cá nhân.",
       "author": "Ban biên tập",
       "category": "Thế giới",
       "publishedAt": "2026-10-16 15:30",
@@ -30,9 +30,9 @@
     {
       "id": "demo-003",
       "title": "Giáo dục trực tuyến và những thay đổi trong cách học",
-      "slug": "giao-duc-truc-tuyen-va-cach-hoc",
-      "excerpt": "Các nền tảng học trực tuyến giúp người học tiếp cận tài liệu và chủ động hơn trong quá trình học tập.",
-      "content": "Học trực tuyến đem đến khả năng tiếp cận kiến thức linh hoạt. Người học vẫn cần có kế hoạch rõ ràng, lựa chọn nguồn tài liệu đáng tin cậy và duy trì sự tương tác để nâng cao hiệu quả học tập.",
+      "slug": "giao-duc-truc-tuyen-thay-doi-cach-hoc",
+      "excerpt": "Các nền tảng học trực tuyến mở rộng cơ hội tiếp cận kiến thức và tài liệu học tập.",
+      "content": "Học trực tuyến giúp người học linh hoạt về thời gian và địa điểm. Tuy nhiên, để đạt hiệu quả, người học cần xây dựng kế hoạch rõ ràng, chủ động trao đổi với giảng viên và lựa chọn nguồn học liệu đáng tin cậy.",
       "author": "Ban biên tập",
       "category": "Giáo dục",
       "publishedAt": "2026-10-15 10:00",
@@ -44,8 +44,8 @@
       "id": "demo-004",
       "title": "Thói quen vận động giúp nâng cao sức khỏe mỗi ngày",
       "slug": "thoi-quen-van-dong-nang-cao-suc-khoe",
-      "excerpt": "Duy trì hoạt động thể chất phù hợp là một phần quan trọng của lối sống lành mạnh.",
-      "content": "Vận động thường xuyên, nghỉ ngơi hợp lý và ăn uống cân bằng góp phần hỗ trợ sức khỏe. Mỗi người nên lựa chọn hình thức vận động phù hợp với khả năng và điều kiện cá nhân.",
+      "excerpt": "Duy trì hoạt động thể chất phù hợp góp phần cải thiện sức khỏe và chất lượng cuộc sống.",
+      "content": "Vận động thường xuyên là một phần quan trọng của lối sống lành mạnh. Mỗi người có thể lựa chọn hình thức vận động phù hợp với điều kiện và khả năng của mình, đồng thời chú ý nghỉ ngơi và duy trì chế độ sinh hoạt cân bằng.",
       "author": "Ban biên tập",
       "category": "Sức khỏe",
       "publishedAt": "2026-10-14 08:30",
@@ -57,11 +57,11 @@
       "id": "demo-005",
       "title": "Thể thao góp phần kết nối cộng đồng",
       "slug": "the-thao-ket-noi-cong-dong",
-      "excerpt": "Các hoạt động thể thao tạo cơ hội giao lưu, rèn luyện kỹ năng và tăng cường tinh thần đồng đội.",
-      "content": "Thể thao không chỉ mang lại lợi ích vận động mà còn tạo môi trường để mọi người hợp tác và xây dựng tinh thần tập thể. Việc tham gia cần phù hợp với thể trạng và được thực hiện an toàn.",
+      "excerpt": "Các hoạt động thể thao tạo cơ hội giao lưu, rèn luyện và tăng sự gắn kết giữa mọi người.",
+      "content": "Thể thao không chỉ giúp rèn luyện thể chất mà còn tạo cơ hội để mọi người giao lưu và hợp tác. Các hoạt động cộng đồng có thể khuyến khích lối sống năng động và tinh thần đoàn kết.",
       "author": "Ban biên tập",
       "category": "Thể thao",
-      "publishedAt": "2026-10-13 17:00",
+      "publishedAt": "2026-10-13 16:00",
       "source": "Bài viết mẫu phục vụ học tập",
       "url": "",
       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1000&q=80"
@@ -78,21 +78,19 @@
       "source": "Bài viết mẫu phục vụ học tập",
       "url": "",
       "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": "dantri-kinhdoanh-001",
+      "title": "Đơn giản hóa điều kiện chào bán chứng khoán phải gắn với kiểm soát rủi ro",
+      "slug": "don-gian-hoa-dieu-kien-chao-ban-chung-khoan-phai-gan-voi-kiem-soat-rui-ro",
+      "excerpt": "Các ý kiến tại Quốc hội nhấn mạnh việc tạo thuận lợi cho doanh nghiệp huy động vốn cần đi đôi với kiểm soát rủi ro, minh bạch thông tin và bảo vệ quyền lợi nhà đầu tư.",
+      "content": "Theo bài viết trên Dân trí, Phó Chủ tịch Quốc hội Nguyễn Hồng Diên tán thành việc sửa đổi quy định nhằm tháo gỡ khó khăn cho doanh nghiệp và đơn giản hóa thủ tục. Tuy nhiên, ông nhấn mạnh cần thực hiện đồng thời mục tiêu tạo thuận lợi cho doanh nghiệp và bảo đảm an toàn thị trường, bảo vệ nhà đầu tư. Các ý kiến cũng đề cập đến cơ chế linh hoạt đối với doanh nghiệp quy mô lớn và yêu cầu nâng cao chất lượng thông tin, giám sát rủi ro.",
+      "author": "Hoài Thu",
+      "category": "Kinh doanh",
+      "publishedAt": "2026-10-17 21:51",
+      "source": "Dân trí",
+      "url": "https://dantri.com.vn/kinh-doanh/don-gian-hoa-dieu-kien-chao-ban-chung-khoan-phai-gan-voi-kiem-soat-rui-ro-20261017214454748.htm",
+      "image": ""
     }
   ]
-},
-
-{
-  "id": "dantri-kinhdoanh-001",
-  "title": "Đơn giản hóa điều kiện chào bán chứng khoán phải gắn với kiểm soát rủi ro",
-  "slug": "don-gian-hoa-dieu-kien-chao-ban-chung-khoan-phai-gan-voi-kiem-soat-rui-ro",
-  "excerpt": "Các ý kiến tại Quốc hội nhấn mạnh việc tạo thuận lợi cho doanh nghiệp huy động vốn cần đi đôi với kiểm soát rủi ro, minh bạch thông tin và bảo vệ quyền lợi nhà đầu tư.",
-  "content": "Theo bài viết trên Dân trí, Phó Chủ tịch Quốc hội Nguyễn Hồng Diên tán thành việc sửa đổi quy định nhằm tháo gỡ khó khăn cho doanh nghiệp và đơn giản hóa thủ tục. Tuy nhiên, ông nhấn mạnh cần thực hiện đồng thời mục tiêu tạo thuận lợi cho doanh nghiệp và bảo đảm an toàn thị trường, bảo vệ nhà đầu tư. Các ý kiến cũng đề cập đến cơ chế linh hoạt đối với doanh nghiệp quy mô lớn và yêu cầu nâng cao chất lượng thông tin, giám sát rủi ro.",
-  "author": "Hoài Thu",
-  "category": "Kinh doanh",
-  "publishedAt": "2026-10-17 21:51",
-  "source": "Dân trí",
-  "url": "https://dantri.com.vn/kinh-doanh/don-gian-hoa-dieu-kien-chao-ban-chung-khoan-phai-gan-voi-kiem-soat-rui-ro-20261017214454748.htm",
-  "image": ""
 }
-
