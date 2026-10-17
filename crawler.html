@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Công cụ thu thập và chuẩn hóa dữ liệu bài viết tin tức.">
+  <title>Crawler tin tức | Tin Mới 24H</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="index.html">
+        <span class="logo-mark">T</span>
+        <span>TIN MỚI <span class="logo-highlight">24H</span></span>
+      </a>
+      <a class="crawler-link" href="index.html">← Trang chủ</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="page-heading">
+      <p class="eyebrow">CÔNG CỤ THU THẬP DỮ LIỆU</p>
+      <h1>Crawler tin tức</h1>
+      <p>Nhập đường dẫn bài viết để trích xuất và chuẩn hóa dữ liệu.</p>
+    </section>
+
+    <section class="crawler-panel">
+      <form id="crawler-form" class="crawler-form">
+        <label for="article-url">URL bài viết</label>
+        <input
+          id="article-url"
+          name="url"
+          type="url"
+          placeholder="https://dantri.com.vn/..."
+          required
+        >
+
+        <button class="primary-button" type="submit" id="crawl-button">
+          Thu thập dữ liệu
+        </button>
+      </form>
+
+      <p id="crawler-status" class="status-message" role="status">
+        Nhập URL bài báo để bắt đầu.
+      </p>
+    </section>
+
+    <section class="result-panel">
+      <h2>Dữ liệu bài viết dạng JSON</h2>
+      <p>Kiểm tra dữ liệu trích xuất trước khi lưu.</p>
+
+      <pre id="crawler-output" class="json-output">Chưa có dữ liệu.</pre>
+
+      <button
+        id="save-article"
+        class="primary-button"
+        type="button"
+        disabled
+      >
+        Lưu bài viết
+      </button>
+    </section>
+
+    <section class="result-panel">
+      <h2>Bài viết đã lưu</h2>
+      <p id="saved-count">0 bài viết đã lưu trong trình duyệt.</p>
+      <ul id="saved-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container copyright">
+      © 2026 Tin Mới 24H. Website phục vụ mục đích học tập.
+    </div>
+  </footer>
+
+  <script src="crawler.js"></script>
+</body>
+</html>
